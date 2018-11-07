@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="d6X-Vy-KD3">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="e8g-lX-yfC">
+            <objects>
+                <navigationController id="d6X-Vy-KD3" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="4SY-FF-nE1">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="ROW-bJ-plr"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2sv-at-KbM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-826" y="113"/>
+        </scene>
+        <!--대피소-->
+        <scene sceneID="CZp-rI-0sZ">
+            <objects>
+                <viewController title="대피소" id="5t7-TN-QOi" customClass="ShelterViewController" customModule="EarthquakeShelter" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ySX-IO-0Q2">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Ghw-W2-VSL">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="603" id="3iK-O9-fdY"/>
+                                    <constraint firstAttribute="width" constant="375" id="9rB-Hj-osD"/>
+                                </constraints>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="RE" textLabel="haf-Et-vLT" detailTextLabel="FRm-oE-U5I" style="IBUITableViewCellStyleSubtitle" id="teT-9C-HlB">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="teT-9C-HlB" id="ric-zk-ybE">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" multipleTouchEnabled="YES" tag="1" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="haf-Et-vLT">
+                                                    <rect key="frame" x="15" y="5" width="33.5" height="20.5"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" multipleTouchEnabled="YES" tag="2" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Subtitle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="FRm-oE-U5I">
+                                                    <rect key="frame" x="15" y="25.5" width="44" height="14.5"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Ghw-W2-VSL" firstAttribute="trailing" secondItem="BS7-SH-CcP" secondAttribute="trailing" id="5D8-ws-MUL"/>
+                            <constraint firstItem="Ghw-W2-VSL" firstAttribute="leading" secondItem="BS7-SH-CcP" secondAttribute="leading" id="Tdu-ou-dEh"/>
+                            <constraint firstItem="Ghw-W2-VSL" firstAttribute="top" secondItem="BS7-SH-CcP" secondAttribute="top" id="aaG-HS-rDK"/>
+                            <constraint firstItem="Ghw-W2-VSL" firstAttribute="bottom" secondItem="BS7-SH-CcP" secondAttribute="bottom" id="zMc-0x-Xax"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="BS7-SH-CcP"/>
+                    </view>
+                    <connections>
+                        <outlet property="myTableView" destination="Ghw-W2-VSL" id="abF-xp-Mhq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BS4-bx-paK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-26.399999999999999" y="-571.66416791604206"/>
+        </scene>
+        <!--부산 지진대피소-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="EarthquakeShelter" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="JcA-zz-VMr">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="bNM-Gv-ANv"/>
+                                    <constraint firstAttribute="height" constant="603" id="u8k-8a-meJ"/>
+                                </constraints>
+                            </mapView>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Xjm-gc-U4a">
+                                <rect key="frame" x="38" y="104" width="299" height="29"/>
+                                <segments>
+                                    <segment title="Basic"/>
+                                    <segment title="100M"/>
+                                    <segment title="200M"/>
+                                    <segment title="500M"/>
+                                </segments>
+                                <connections>
+                                    <action selector="scZoomchanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="Nu2-Rm-bXD"/>
+                                </connections>
+                            </segmentedControl>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="JcA-zz-VMr" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="IKm-xI-mHS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Xjm-gc-U4a" secondAttribute="trailing" constant="38" id="QXe-wO-VNl"/>
+                            <constraint firstItem="Xjm-gc-U4a" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="38" id="TVh-Kb-PvI"/>
+                            <constraint firstItem="Xjm-gc-U4a" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="40" id="Tpd-pN-0vI"/>
+                            <constraint firstItem="JcA-zz-VMr" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="TyO-OZ-Dak"/>
+                            <constraint firstItem="JcA-zz-VMr" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="VFy-Kv-zl0"/>
+                            <constraint firstItem="JcA-zz-VMr" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="hld-uU-Wxy"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="부산 지진대피소" id="lVM-Np-Exe">
+                        <barButtonItem key="leftBarButtonItem" title="대피소" id="pDP-Lr-UhU">
+                            <connections>
+                                <segue destination="5t7-TN-QOi" kind="show" id="LYR-Nk-8LQ"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" title="대피요령" id="97f-3G-Oel">
+                            <connections>
+                                <segue destination="Tl6-I3-N2B" kind="show" id="0mS-vY-nug"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="myMapView" destination="JcA-zz-VMr" id="FZD-Ek-XMn"/>
+                        <outlet property="scZoom" destination="Xjm-gc-U4a" id="A3X-rr-OLp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-26.399999999999999" y="112.89355322338831"/>
+        </scene>
+        <!--대피요령-->
+        <scene sceneID="cOo-hf-FZx">
+            <objects>
+                <viewController title="대피요령" id="Tl6-I3-N2B" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="l9d-Ax-Ko1">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="지진대피요령.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="WSu-5j-vzt">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="5cn-NI-xKe"/>
+                                    <constraint firstAttribute="height" constant="603" id="W3C-fk-VXt"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="WSu-5j-vzt" firstAttribute="trailing" secondItem="01t-aT-5BS" secondAttribute="trailing" id="Kkz-Hk-o8Z"/>
+                            <constraint firstItem="WSu-5j-vzt" firstAttribute="leading" secondItem="01t-aT-5BS" secondAttribute="leading" id="RwU-hg-Lz4"/>
+                            <constraint firstItem="WSu-5j-vzt" firstAttribute="top" secondItem="01t-aT-5BS" secondAttribute="top" id="jke-hs-gWU"/>
+                            <constraint firstItem="WSu-5j-vzt" firstAttribute="bottom" secondItem="01t-aT-5BS" secondAttribute="bottom" id="vzb-PA-BPw"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="01t-aT-5BS"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="amA-Pk-eYu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-26.399999999999999" y="797.45127436281871"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="지진대피요령.jpg" width="690" height="874"/>
+    </resources>
+</document>

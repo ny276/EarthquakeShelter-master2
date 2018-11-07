@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>신덕초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 함박봉로140번가길 25(만덕동)</dtl_adres>
+        <fclty_ar>611.0000</fclty_ar>
+        <xcord>129.032433</xcord>
+        <ycord>35.202656</ycord>
+        <mngps_nm>김현미</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>신덕중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 함박봉로140번가길 27(만덕동)</dtl_adres>
+        <fclty_ar>645.0000</fclty_ar>
+        <xcord>129.030858</xcord>
+        <ycord>35.203059</ycord>
+        <mngps_nm>이현두</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>해강중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대해변로 17(우동)</dtl_adres>
+        <fclty_ar>693.0000</fclty_ar>
+        <xcord>129.135913</xcord>
+        <ycord>35.164113</ycord>
+        <mngps_nm>정미경</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>해강고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대해변로 33(우동)</dtl_adres>
+        <fclty_ar>909.0000</fclty_ar>
+        <xcord>129.135913</xcord>
+        <ycord>35.164113</ycord>
+        <mngps_nm>전해성</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>해림초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대로469번길 42(우동)</dtl_adres>
+        <fclty_ar>326.0000</fclty_ar>
+        <xcord>129.144141</xcord>
+        <ycord>35.164760</ycord>
+        <mngps_nm>김복술</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>강동초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대로349번길 10(우동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>129.136777</xcord>
+        <ycord>35.172115</ycord>
+        <mngps_nm>원혜진</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>동백초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 좌동순환로357번길 6(중동)</dtl_adres>
+        <fclty_ar>743.0000</fclty_ar>
+        <xcord>129.180957</xcord>
+        <ycord>35.164222</ycord>
+        <mngps_nm>강은경</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>해운대구 보훈회관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 좌동순환로 18(좌동)</dtl_adres>
+        <fclty_ar>298.0000</fclty_ar>
+        <xcord>129.167254</xcord>
+        <ycord>35.168154</ycord>
+        <mngps_nm>허정윤</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>송정초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대로 1164-9 (송정동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>129.204775</xcord>
+        <ycord>35.189325</ycord>
+        <mngps_nm>배원섭</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>분포중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 분포로 51(용호동)</dtl_adres>
+        <fclty_ar>13011.0000</fclty_ar>
+        <xcord>129.114853</xcord>
+        <ycord>35.129227</ycord>
+        <mngps_nm>김연실(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>분포고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 분포로 57(용호동)</dtl_adres>
+        <fclty_ar>14127.0000</fclty_ar>
+        <xcord>129.114985</xcord>
+        <ycord>35.130093</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>오륙도중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 오륙도로 60(용호동)</dtl_adres>
+        <fclty_ar>2740.0000</fclty_ar>
+        <xcord>129.112857</xcord>
+        <ycord>35.103523</ycord>
+        <mngps_nm>김종철(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>오륙도초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 오륙도로 57(용호동)</dtl_adres>
+        <fclty_ar>2685.0000</fclty_ar>
+        <xcord>129.110931</xcord>
+        <ycord>35.100778</ycord>
+        <mngps_nm>김환식(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>용문중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 동명로 185-17 (용호동)</dtl_adres>
+        <fclty_ar>5354.0000</fclty_ar>
+        <xcord>129.114668</xcord>
+        <ycord>35.119261</ycord>
+        <mngps_nm>강동섭(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>성지고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 유엔로27번길 54(우암동)</dtl_adres>
+        <fclty_ar>772.0000</fclty_ar>
+        <xcord>129.081162</xcord>
+        <ycord>35.128037</ycord>
+        <mngps_nm>민성욱(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>대양전자통신고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 지게골로 128-27 (문현동)</dtl_adres>
+        <fclty_ar>26850.0000</fclty_ar>
+        <xcord>129.073413</xcord>
+        <ycord>35.132864</ycord>
+        <mngps_nm>이병선(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>구포중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 백양대로1016번다길 31(구포동)</dtl_adres>
+        <fclty_ar>717.0000</fclty_ar>
+        <xcord>128.996412</xcord>
+        <ycord>35.194703</ycord>
+        <mngps_nm>장경철</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>포천초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 시랑로 115(구포동)</dtl_adres>
+        <fclty_ar>720.0000</fclty_ar>
+        <xcord>129.008771</xcord>
+        <ycord>35.196546</ycord>
+        <mngps_nm>김민정</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>금명초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 화명신도시로 197(금곡동)</dtl_adres>
+        <fclty_ar>711.0000</fclty_ar>
+        <xcord>129.011061</xcord>
+        <ycord>35.241597</ycord>
+        <mngps_nm>조옥선</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>금명중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 화명신도시로 210-1 (금곡동)</dtl_adres>
+        <fclty_ar>773.0000</fclty_ar>
+        <xcord>129.012364</xcord>
+        <ycord>35.243333</ycord>
+        <mngps_nm>성희채</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>대천리초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 산성로 87-10 (화명동)</dtl_adres>
+        <fclty_ar>650.0000</fclty_ar>
+        <xcord>129.022995</xcord>
+        <ycord>35.242189</ycord>
+        <mngps_nm>강숙희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>명진초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 화명신도시로 159(화명동)</dtl_adres>
+        <fclty_ar>3072.0000</fclty_ar>
+        <xcord>129.010656</xcord>
+        <ycord>35.238467</ycord>
+        <mngps_nm>정애경</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>용수초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 화명신도시로 53(화명동)</dtl_adres>
+        <fclty_ar>599.0000</fclty_ar>
+        <xcord>129.008993</xcord>
+        <ycord>35.228817</ycord>
+        <mngps_nm>송지은</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>용수중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 금곡대로229번길 88(화명동)</dtl_adres>
+        <fclty_ar>370.0000</fclty_ar>
+        <xcord>129.008053</xcord>
+        <ycord>35.230026</ycord>
+        <mngps_nm>조대형</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>명진중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 학사로 192(화명동)</dtl_adres>
+        <fclty_ar>572.0000</fclty_ar>
+        <xcord>129.009701</xcord>
+        <ycord>35.239586</ycord>
+        <mngps_nm>박영녀</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>북구</sgg_nm>
+        <vt_acmdfclty_nm>덕성초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 북구 만덕대로39번길 45(덕천동)</dtl_adres>
+        <fclty_ar>648.0000</fclty_ar>
+        <xcord>129.008279</xcord>
+        <ycord>35.213592</ycord>
+        <mngps_nm>장호창</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>분포초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 분포로 41(용호동)</dtl_adres>
+        <fclty_ar>12935.0000</fclty_ar>
+        <xcord>129.114352</xcord>
+        <ycord>35.128673</ycord>
+        <mngps_nm>강민수(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>백운초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 동명로 76(용호동)</dtl_adres>
+        <fclty_ar>7176.0000</fclty_ar>
+        <xcord>129.105976</xcord>
+        <ycord>35.118289</ycord>
+        <mngps_nm>김정훈(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>용문초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 신선로 542(용호동)</dtl_adres>
+        <fclty_ar>13045.0000</fclty_ar>
+        <xcord>129.108214</xcord>
+        <ycord>35.130461</ycord>
+        <mngps_nm>서정희(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산국제고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양관문로 105-70 (당감동)</dtl_adres>
+        <fclty_ar>1206.0000</fclty_ar>
+        <xcord>129.023845</xcord>
+        <ycord>35.167583</ycord>
+        <mngps_nm>행정과장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>가야여자중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 엄광로182번길 15-25 (가야동)</dtl_adres>
+        <fclty_ar>566.0000</fclty_ar>
+        <xcord>129.036066</xcord>
+        <ycord>35.148001</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>가평초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 가야대로482번길 87(가야동)</dtl_adres>
+        <fclty_ar>597.0000</fclty_ar>
+        <xcord>129.024993</xcord>
+        <ycord>35.148778</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산개성중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 엄광로 176-12 (가야동)</dtl_adres>
+        <fclty_ar>1392.0000</fclty_ar>
+        <xcord>129.032941</xcord>
+        <ycord>35.146320</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>개림중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양대로300번길 46(개금동)</dtl_adres>
+        <fclty_ar>403.0000</fclty_ar>
+        <xcord>129.018203</xcord>
+        <ycord>35.157164</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>개포초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양대로208번길 9(개금동)</dtl_adres>
+        <fclty_ar>576.0000</fclty_ar>
+        <xcord>129.026588</xcord>
+        <ycord>35.158494</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>개화초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 개금본동로66번길 12-12 (개금동)</dtl_adres>
+        <fclty_ar>160.0000</fclty_ar>
+        <xcord>129.020601</xcord>
+        <ycord>35.158340</ycord>
+        <mngps_nm>행정과장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>개림초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양대로320번길 40(개금동)</dtl_adres>
+        <fclty_ar>248.0000</fclty_ar>
+        <xcord>129.016247</xcord>
+        <ycord>35.156105</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산진초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 범천로 30(범천동)</dtl_adres>
+        <fclty_ar>649.0000</fclty_ar>
+        <xcord>129.056300</xcord>
+        <ycord>35.150014</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>부산전자공업고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 금강로59번길 51(온천동)</dtl_adres>
+        <fclty_ar>872.0000</fclty_ar>
+        <xcord>129.073344</xcord>
+        <ycord>35.215185</ycord>
+        <mngps_nm>이요섭</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>온천초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 충렬대로107번길 124(온천동)</dtl_adres>
+        <fclty_ar>616.0000</fclty_ar>
+        <xcord>129.073756</xcord>
+        <ycord>35.212545</ycord>
+        <mngps_nm>김동주</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>금강초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 사직북로28번길 125(온천동)</dtl_adres>
+        <fclty_ar>769.0000</fclty_ar>
+        <xcord>129.064512</xcord>
+        <ycord>35.202823</ycord>
+        <mngps_nm>민옥현</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>사직동교회</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 사직북로34번길 59(사직동)</dtl_adres>
+        <fclty_ar>403.0000</fclty_ar>
+        <xcord>129.062427</xcord>
+        <ycord>35.200831</ycord>
+        <mngps_nm>김철봉</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>예원초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 사직로 78(사직동)</dtl_adres>
+        <fclty_ar>720.0000</fclty_ar>
+        <xcord>129.057469</xcord>
+        <ycord>35.195707</ycord>
+        <mngps_nm>정원권</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>안진초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 안남로 63(안락동)</dtl_adres>
+        <fclty_ar>776.0000</fclty_ar>
+        <xcord>129.099384</xcord>
+        <ycord>35.194683</ycord>
+        <mngps_nm>박상은</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>혜화초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 명장로99번길 25(명장동)</dtl_adres>
+        <fclty_ar>165.0000</fclty_ar>
+        <xcord>129.113334</xcord>
+        <ycord>35.202262</ycord>
+        <mngps_nm>최영찬</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동래구</sgg_nm>
+        <vt_acmdfclty_nm>대명여자고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동래구 시실로 135(명장동)</dtl_adres>
+        <fclty_ar>688.0000</fclty_ar>
+        <xcord>129.096460</xcord>
+        <ycord>35.211528</ycord>
+        <mngps_nm>송동영</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>대연초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 진남로18번길 11(대연동)</dtl_adres>
+        <fclty_ar>7816.0000</fclty_ar>
+        <xcord>129.092110</xcord>
+        <ycord>35.137053</ycord>
+        <mngps_nm>이영애(행정과장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>부산광역시 남구청 대강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 못골로 19(대연동)</dtl_adres>
+        <fclty_ar>429.0000</fclty_ar>
+        <xcord>129.084364</xcord>
+        <ycord>35.136548</ycord>
+        <mngps_nm>재무과장 문정애</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>남구</sgg_nm>
+        <vt_acmdfclty_nm>용호초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 남구 용호로42번길 94(용호동)</dtl_adres>
+        <fclty_ar>8275.0000</fclty_ar>
+        <xcord>129.109023</xcord>
+        <ycord>35.122763</ycord>
+        <mngps_nm>주용학(행정과장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>중구</sgg_nm>
+        <vt_acmdfclty_nm>중앙동주민센터</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 중구 중앙대로41번길 10(중앙동2가)</dtl_adres>
+        <fclty_ar>146.0000</fclty_ar>
+        <xcord>129.035359</xcord>
+        <ycord>35.101313</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>중구</sgg_nm>
+        <vt_acmdfclty_nm>광일초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 중구 중구로 74(대청동4가)</dtl_adres>
+        <fclty_ar>641.0000</fclty_ar>
+        <xcord>129.029835</xcord>
+        <ycord>35.103866</ycord>
+        <mngps_nm>김원규</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>중구</sgg_nm>
+        <vt_acmdfclty_nm>보수동주민센터</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 중구 보수대로140번길 61(보수동1가)</dtl_adres>
+        <fclty_ar>166.0000</fclty_ar>
+        <xcord>129.024639</xcord>
+        <ycord>35.106238</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>중구</sgg_nm>
+        <vt_acmdfclty_nm>중구보훈회관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 중구 대영로 234-1 (영주동)</dtl_adres>
+        <fclty_ar>83.0000</fclty_ar>
+        <xcord>129.036354</xcord>
+        <ycord>35.111879</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>중구</sgg_nm>
+        <vt_acmdfclty_nm>중구노인복지관분관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 중구 영주로 8-1 (영주동)</dtl_adres>
+        <fclty_ar>93.0000</fclty_ar>
+        <xcord>129.032528</xcord>
+        <ycord>35.110167</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>동신초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 대영로85번길 81-19 (동대신동3가)</dtl_adres>
+        <fclty_ar>445.2000</fclty_ar>
+        <xcord>129.017938</xcord>
+        <ycord>35.114182</ycord>
+        <mngps_nm>김영미</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>대신초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 대신로 63(서대신동3가)</dtl_adres>
+        <fclty_ar>713.0000</fclty_ar>
+        <xcord>129.012026</xcord>
+        <ycord>35.115540</ycord>
+        <mngps_nm>백경호</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>부산대신중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 대신로109번길 10(서대신동3가)</dtl_adres>
+        <fclty_ar>495.0000</fclty_ar>
+        <xcord>129.013127</xcord>
+        <ycord>35.118055</ycord>
+        <mngps_nm>유아현</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>아미초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 아미로 132-1 (아미동2가)</dtl_adres>
+        <fclty_ar>565.0000</fclty_ar>
+        <xcord>129.015662</xcord>
+        <ycord>35.098278</ycord>
+        <mngps_nm>양정해</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>초장중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 해돋이로 205(초장동)</dtl_adres>
+        <fclty_ar>659.0000</fclty_ar>
+        <xcord>129.018160</xcord>
+        <ycord>35.095043</ycord>
+        <mngps_nm>박금희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>경남중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 까치고개로229번길 7(토성동3가)</dtl_adres>
+        <fclty_ar>683.0000</fclty_ar>
+        <xcord>129.020406</xcord>
+        <ycord>35.100469</ycord>
+        <mngps_nm>박정용</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>남부민초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 천마로 153(남부민동)</dtl_adres>
+        <fclty_ar>618.0000</fclty_ar>
+        <xcord>129.022770</xcord>
+        <ycord>35.089997</ycord>
+        <mngps_nm>김영옥</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>송도초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 충무대로 25(암남동)</dtl_adres>
+        <fclty_ar>475.0000</fclty_ar>
+        <xcord>129.015652</xcord>
+        <ycord>35.078312</ycord>
+        <mngps_nm>어경태</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>서구</sgg_nm>
+        <vt_acmdfclty_nm>부산알로이시오초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 서구 천해로13번길 16-9 (암남동)</dtl_adres>
+        <fclty_ar>264.0000</fclty_ar>
+        <xcord>129.015965</xcord>
+        <ycord>35.083348</ycord>
+        <mngps_nm>권충기</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동구</sgg_nm>
+        <vt_acmdfclty_nm>부산컴퓨터과학고</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동구 초량로80번길 5(초량동)</dtl_adres>
+        <fclty_ar>2724.0000</fclty_ar>
+        <xcord>129.033953</xcord>
+        <ycord>35.121737</ycord>
+        <mngps_nm>남동근</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동구</sgg_nm>
+        <vt_acmdfclty_nm>부산고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동구 초량로40번길 23(초량동)</dtl_adres>
+        <fclty_ar>1411.0000</fclty_ar>
+        <xcord>129.036474</xcord>
+        <ycord>35.120899</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동구</sgg_nm>
+        <vt_acmdfclty_nm>동일중앙초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동구 구봉로 46(수정동)</dtl_adres>
+        <fclty_ar>1548.0000</fclty_ar>
+        <xcord>129.037866</xcord>
+        <ycord>35.125066</ycord>
+        <mngps_nm>최현숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동구</sgg_nm>
+        <vt_acmdfclty_nm>경남여자중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동구 초량중로 142(수정동)</dtl_adres>
+        <fclty_ar>1172.0000</fclty_ar>
+        <xcord>129.042271</xcord>
+        <ycord>35.123338</ycord>
+        <mngps_nm>공경록</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>동구</sgg_nm>
+        <vt_acmdfclty_nm>범일초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 동구 증산서로 55(범일동)</dtl_adres>
+        <fclty_ar>697.0000</fclty_ar>
+        <xcord>129.050210</xcord>
+        <ycord>35.139310</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 꿈나무길 41(신선동1가)</dtl_adres>
+        <fclty_ar>1481.0000</fclty_ar>
+        <xcord>129.046326</xcord>
+        <ycord>35.090076</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도구노인복지관 분관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 봉래길 372(청학동)</dtl_adres>
+        <fclty_ar>305.0000</fclty_ar>
+        <xcord>129.056719</xcord>
+        <ycord>35.091111</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도구청</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 태종로 423(청학동)</dtl_adres>
+        <fclty_ar>750.0000</fclty_ar>
+        <xcord>129.067997</xcord>
+        <ycord>35.091233</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도구청 민방위교육장</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 태종로 423(청학동)</dtl_adres>
+        <fclty_ar>677.0000</fclty_ar>
+        <xcord>129.067938</xcord>
+        <ycord>35.091179</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도문화예술회관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 함지로79번길 6(동삼동)</dtl_adres>
+        <fclty_ar>1060.0000</fclty_ar>
+        <xcord>129.065969</xcord>
+        <ycord>35.075576</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도구장애인복지관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 함지로79번길 6(동삼동)</dtl_adres>
+        <fclty_ar>1050.0000</fclty_ar>
+        <xcord>129.065326</xcord>
+        <ycord>35.074669</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도도서관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 함지로79번길 6(동삼동)</dtl_adres>
+        <fclty_ar>351.0000</fclty_ar>
+        <xcord>129.066443</xcord>
+        <ycord>35.075577</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>영도구</sgg_nm>
+        <vt_acmdfclty_nm>영도국민체육센터</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 영도구 함지로79번길 6(동삼동)</dtl_adres>
+        <fclty_ar>825.0000</fclty_ar>
+        <xcord>129.066852</xcord>
+        <ycord>35.075279</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산진고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 성지로94번길 54(초읍동)</dtl_adres>
+        <fclty_ar>730.0000</fclty_ar>
+        <xcord>129.055655</xcord>
+        <ycord>35.179425</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>양정고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 양정로 46(양정동)</dtl_adres>
+        <fclty_ar>2427.0000</fclty_ar>
+        <xcord>129.075413</xcord>
+        <ycord>35.169974</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산진여자상업고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 진남로 524(양정동)</dtl_adres>
+        <fclty_ar>922.0000</fclty_ar>
+        <xcord>129.072581</xcord>
+        <ycord>35.169792</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>양동여자중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 황령산로605번길 35-32 (양정동)</dtl_adres>
+        <fclty_ar>2808.0000</fclty_ar>
+        <xcord>129.081052</xcord>
+        <ycord>35.170206</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>양정초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 중앙대로941번길 24(양정동)</dtl_adres>
+        <fclty_ar>520.0000</fclty_ar>
+        <xcord>129.071202</xcord>
+        <ycord>35.175062</ycord>
+        <mngps_nm>교감</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>전포종합사회복지관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 전포대로190번길 35(전포동)</dtl_adres>
+        <fclty_ar>131.0000</fclty_ar>
+        <xcord>129.067668</xcord>
+        <ycord>35.153652</ycord>
+        <mngps_nm>부장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산진여자중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 동성로 34(전포동)</dtl_adres>
+        <fclty_ar>678.0000</fclty_ar>
+        <xcord>129.069163</xcord>
+        <ycord>35.153992</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>부산진구노인복지관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 전포대로300번길 6(전포동)</dtl_adres>
+        <fclty_ar>204.0000</fclty_ar>
+        <xcord>129.065817</xcord>
+        <ycord>35.164043</ycord>
+        <mngps_nm>과장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>동양중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양산로 96(부암동)</dtl_adres>
+        <fclty_ar>2563.0000</fclty_ar>
+        <xcord>129.031820</xcord>
+        <ycord>35.177316</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>동평여자중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양순환로119번길 12-39 (부암동)</dtl_adres>
+        <fclty_ar>796.0000</fclty_ar>
+        <xcord>129.042739</xcord>
+        <ycord>35.170366</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>동양초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양산로 99(부암동)</dtl_adres>
+        <fclty_ar>477.0000</fclty_ar>
+        <xcord>129.030768</xcord>
+        <ycord>35.176451</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>당감종합사회복지관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 당감서로 16(당감동)</dtl_adres>
+        <fclty_ar>142.0000</fclty_ar>
+        <xcord>129.036612</xcord>
+        <ycord>35.162226</ycord>
+        <mngps_nm>부장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>당평초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양대로136번길 26(당감동)</dtl_adres>
+        <fclty_ar>594.0000</fclty_ar>
+        <xcord>129.034911</xcord>
+        <ycord>35.161393</ycord>
+        <mngps_nm>행정실장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>부산진구</sgg_nm>
+        <vt_acmdfclty_nm>한국과학영재학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 부산진구 백양관문로 105-47 (당감동)</dtl_adres>
+        <fclty_ar>1219.0000</fclty_ar>
+        <xcord>129.026129</xcord>
+        <ycord>35.165814</ycord>
+        <mngps_nm>행정지원부장</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>가동초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관5로 100</dtl_adres>
+        <fclty_ar>758.0000</fclty_ar>
+        <xcord>129.178909</xcord>
+        <ycord>35.326519</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>신정초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관로 460</dtl_adres>
+        <fclty_ar>11529.0000</fclty_ar>
+        <xcord>129.167841</xcord>
+        <ycord>35.328421</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>신정중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관3로 44</dtl_adres>
+        <fclty_ar>620.0000</fclty_ar>
+        <xcord>129.168719</xcord>
+        <ycord>35.329364</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>칠암초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 일광면 박영준길 19</dtl_adres>
+        <fclty_ar>2644.0000</fclty_ar>
+        <xcord>129.255533</xcord>
+        <ycord>35.298508</ycord>
+        <mngps_nm>류병오</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>기장군국민체육센터</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 일광면 체육공원1로 29</dtl_adres>
+        <fclty_ar>898.0000</fclty_ar>
+        <xcord>129.242951</xcord>
+        <ycord>35.305036</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>철마초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 철마면 철마로 493</dtl_adres>
+        <fclty_ar>1765.0000</fclty_ar>
+        <xcord>129.150680</xcord>
+        <ycord>35.275053</ycord>
+        <mngps_nm>이병일</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>신진초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 철마면 고촌로28번길 10</dtl_adres>
+        <fclty_ar>7667.0000</fclty_ar>
+        <xcord>129.171508</xcord>
+        <ycord>35.240791</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>수영초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 광서로16번길 33(광안동)</dtl_adres>
+        <fclty_ar>693.0000</fclty_ar>
+        <xcord>129.112332</xcord>
+        <ycord>35.165694</ycord>
+        <mngps_nm>임상옥(시설과리)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>한바다중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 광안로21번가길 57(광안동)</dtl_adres>
+        <fclty_ar>747.0000</fclty_ar>
+        <xcord>129.118262</xcord>
+        <ycord>35.157036</ycord>
+        <mngps_nm>정종화(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>광안초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 광안로21번가길 35(광안동)</dtl_adres>
+        <fclty_ar>679.0000</fclty_ar>
+        <xcord>129.117066</xcord>
+        <ycord>35.157174</ycord>
+        <mngps_nm>박소현(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>부산수영중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 호암로 30(광안동)</dtl_adres>
+        <fclty_ar>952.0000</fclty_ar>
+        <xcord>129.109417</xcord>
+        <ycord>35.157527</ycord>
+        <mngps_nm>정형대(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>수영구민체육센터</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 광남로257번길 12(민락동)</dtl_adres>
+        <fclty_ar>852.0000</fclty_ar>
+        <xcord>129.126868</xcord>
+        <ycord>35.160813</ycord>
+        <mngps_nm>정지현</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>모덕초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 덕상로 120(모라동)</dtl_adres>
+        <fclty_ar>670.0000</fclty_ar>
+        <xcord>128.991345</xcord>
+        <ycord>35.182198</ycord>
+        <mngps_nm>이민경</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>모동초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 모라로192번길 37(모라동)</dtl_adres>
+        <fclty_ar>700.0000</fclty_ar>
+        <xcord>129.001744</xcord>
+        <ycord>35.185382</ycord>
+        <mngps_nm>신학준</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>덕상초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 덕상로 32(덕포동)</dtl_adres>
+        <fclty_ar>720.0000</fclty_ar>
+        <xcord>128.990556</xcord>
+        <ycord>35.174980</ycord>
+        <mngps_nm>손인숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>서감초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 괘감로 64(감전동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>128.982056</xcord>
+        <ycord>35.157434</ycord>
+        <mngps_nm>오지숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>주양초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 백양대로 372-6 (주례동)</dtl_adres>
+        <fclty_ar>596.0000</fclty_ar>
+        <xcord>129.012247</xcord>
+        <ycord>35.153628</ycord>
+        <mngps_nm>강현자</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>동주초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 가야대로306번길 72(주례동)</dtl_adres>
+        <fclty_ar>710.0000</fclty_ar>
+        <xcord>129.005427</xcord>
+        <ycord>35.146815</ycord>
+        <mngps_nm>신임선</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>구학초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 학감대로 49(학장동)</dtl_adres>
+        <fclty_ar>709.0000</fclty_ar>
+        <xcord>128.992589</xcord>
+        <ycord>35.137620</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사상구</sgg_nm>
+        <vt_acmdfclty_nm>엄궁초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사상구 엄궁로191번길 23(엄궁동)</dtl_adres>
+        <fclty_ar>742.0000</fclty_ar>
+        <xcord>128.974215</xcord>
+        <ycord>35.129054</ycord>
+        <mngps_nm>이수영</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>기장초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 읍내로 69</dtl_adres>
+        <fclty_ar>2178.0000</fclty_ar>
+        <xcord>129.212225</xcord>
+        <ycord>35.246000</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>교리초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 차성로 427</dtl_adres>
+        <fclty_ar>563.0000</fclty_ar>
+        <xcord>129.216847</xcord>
+        <ycord>35.254909</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>기장중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 읍내로 120</dtl_adres>
+        <fclty_ar>1422.0000</fclty_ar>
+        <xcord>129.218000</xcord>
+        <ycord>35.244735</ycord>
+        <mngps_nm>박충구</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>기장고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 차성서로 77</dtl_adres>
+        <fclty_ar>7507.0000</fclty_ar>
+        <xcord>129.209188</xcord>
+        <ycord>35.239903</ycord>
+        <mngps_nm>정수덕</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>대청중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 차성서로 3</dtl_adres>
+        <fclty_ar>708.0000</fclty_ar>
+        <xcord>129.212248</xcord>
+        <ycord>35.239052</ycord>
+        <mngps_nm>이재언</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>내리초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 기장읍 소정안길 50</dtl_adres>
+        <fclty_ar>7525.0000</fclty_ar>
+        <xcord>129.205647</xcord>
+        <ycord>35.205500</ycord>
+        <mngps_nm>010-4542-8537</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>장안고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 장안읍 장안고길 8-16</dtl_adres>
+        <fclty_ar>766.0000</fclty_ar>
+        <xcord>129.236580</xcord>
+        <ycord>35.318847</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>장안제일고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 장안읍 좌천2길 43</dtl_adres>
+        <fclty_ar>1900.0000</fclty_ar>
+        <xcord>129.241063</xcord>
+        <ycord>35.314604</ycord>
+        <mngps_nm>이종호</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>좌천초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 장안읍 좌천로 13-66</dtl_adres>
+        <fclty_ar>1020.0000</fclty_ar>
+        <xcord>129.048952</xcord>
+        <ycord>35.135674</ycord>
+        <mngps_nm>박관수</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>장안초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 장안읍 좌천2길 43</dtl_adres>
+        <fclty_ar>631.0000</fclty_ar>
+        <xcord>129.241063</xcord>
+        <ycord>35.314604</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>월내초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 장안읍 길천2길 25</dtl_adres>
+        <fclty_ar>5016.0000</fclty_ar>
+        <xcord>129.282449</xcord>
+        <ycord>35.328228</ycord>
+        <mngps_nm>김치만</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>부산 중앙중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관덕산길 73</dtl_adres>
+        <fclty_ar>2317.0000</fclty_ar>
+        <xcord>129.187527</xcord>
+        <ycord>35.322486</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>방곡초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관덕산길 61</dtl_adres>
+        <fclty_ar>2630.0000</fclty_ar>
+        <xcord>129.186441</xcord>
+        <ycord>35.322607</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>달산초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관로 674</dtl_adres>
+        <fclty_ar>3360.0000</fclty_ar>
+        <xcord>129.186724</xcord>
+        <ycord>35.319288</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>정원초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관로 423</dtl_adres>
+        <fclty_ar>12633.0000</fclty_ar>
+        <xcord>129.167254</xcord>
+        <ycord>35.332014</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>모전중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관1로 9</dtl_adres>
+        <fclty_ar>3953.0000</fclty_ar>
+        <xcord>129.162400</xcord>
+        <ycord>35.338326</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>정관초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관로 530</dtl_adres>
+        <fclty_ar>11489.0000</fclty_ar>
+        <xcord>129.171986</xcord>
+        <ycord>35.323161</ycord>
+        <mngps_nm>변태준</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>기장군</sgg_nm>
+        <vt_acmdfclty_nm>신정고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 기장군 정관읍 정관3로 14</dtl_adres>
+        <fclty_ar>11546.0000</fclty_ar>
+        <xcord>129.166487</xcord>
+        <ycord>35.328289</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>부산강서고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 공항로1309번길 96-7 (대저1동)</dtl_adres>
+        <fclty_ar>3560.0000</fclty_ar>
+        <xcord>128.982700</xcord>
+        <ycord>35.216006</ycord>
+        <mngps_nm>송갑복</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>덕두초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 공항로791번길 68(대저2동)</dtl_adres>
+        <fclty_ar>614.0000</fclty_ar>
+        <xcord>128.956059</xcord>
+        <ycord>35.175421</ycord>
+        <mngps_nm>문금전</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>강서보훈복지회관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 제도로 1167(강동동)</dtl_adres>
+        <fclty_ar>360.0000</fclty_ar>
+        <xcord>128.935196</xcord>
+        <ycord>35.214201</ycord>
+        <mngps_nm>김인수</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>가락중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 가락대로 1405(죽림동)</dtl_adres>
+        <fclty_ar>570.0000</fclty_ar>
+        <xcord>128.903538</xcord>
+        <ycord>35.190257</ycord>
+        <mngps_nm>정차현</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>녹산초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 과학산단2로20번길 55(지사동)</dtl_adres>
+        <fclty_ar>4367.0000</fclty_ar>
+        <xcord>128.836862</xcord>
+        <ycord>35.151278</ycord>
+        <mngps_nm>박봉석</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>신호초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 신호산단2로75번길 12(신호동)</dtl_adres>
+        <fclty_ar>2762.0000</fclty_ar>
+        <xcord>128.878302</xcord>
+        <ycord>35.081860</ycord>
+        <mngps_nm>서창효</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>천가초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 동선길 135(성북동)</dtl_adres>
+        <fclty_ar>1340.0000</fclty_ar>
+        <xcord>128.831095</xcord>
+        <ycord>35.052210</ycord>
+        <mngps_nm>박재영</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>거학초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 교대로24번길 36(거제동)</dtl_adres>
+        <fclty_ar>500.0000</fclty_ar>
+        <xcord>129.076941</xcord>
+        <ycord>35.197174</ycord>
+        <mngps_nm>임창길</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>남문초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 법원북로 23(거제동)</dtl_adres>
+        <fclty_ar>503.0000</fclty_ar>
+        <xcord>129.069607</xcord>
+        <ycord>35.194206</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>거제여중</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 금용로 43(거제동)</dtl_adres>
+        <fclty_ar>718.0000</fclty_ar>
+        <xcord>129.063166</xcord>
+        <ycord>35.187560</ycord>
+        <mngps_nm>최영숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>창신초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 종합운동장로12번길 15(거제동)</dtl_adres>
+        <fclty_ar>718.0000</fclty_ar>
+        <xcord>129.065569</xcord>
+        <ycord>35.192533</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>거성중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 해맞이로109번길 61(거제동)</dtl_adres>
+        <fclty_ar>603.0000</fclty_ar>
+        <xcord>129.066828</xcord>
+        <ycord>35.183312</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>연신초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 신금로23번길 30(연산동)</dtl_adres>
+        <fclty_ar>576.0000</fclty_ar>
+        <xcord>129.093531</xcord>
+        <ycord>35.192169</ycord>
+        <mngps_nm>051-867-8927</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>국민체육센터 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 쌍미천로 132(연산동)</dtl_adres>
+        <fclty_ar>848.0000</fclty_ar>
+        <xcord>129.088190</xcord>
+        <ycord>35.184371</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>연산초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 월드컵대로 41(연산동)</dtl_adres>
+        <fclty_ar>662.0000</fclty_ar>
+        <xcord>129.084119</xcord>
+        <ycord>35.178092</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>연제초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 중앙대로1065번길 14(연산동)</dtl_adres>
+        <fclty_ar>1105.0000</fclty_ar>
+        <xcord>129.078533</xcord>
+        <ycord>35.184243</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>연제고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 쌍미천로30번길 31(연산동)</dtl_adres>
+        <fclty_ar>706.0000</fclty_ar>
+        <xcord>129.091624</xcord>
+        <ycord>35.177777</ycord>
+        <mngps_nm>김형석</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>과정초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 과정로164번길 37(연산동)</dtl_adres>
+        <fclty_ar>752.0000</fclty_ar>
+        <xcord>129.110202</xcord>
+        <ycord>35.187099</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>연제구</sgg_nm>
+        <vt_acmdfclty_nm>토현중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 연제구 토현로 47(연산동)</dtl_adres>
+        <fclty_ar>647.0000</fclty_ar>
+        <xcord>129.111061</xcord>
+        <ycord>35.181785</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>남천초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 남천서로 14(남천동)</dtl_adres>
+        <fclty_ar>645.0000</fclty_ar>
+        <xcord>129.108081</xcord>
+        <ycord>35.143193</ycord>
+        <mngps_nm>김옥진(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>광남초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 광안해변로 115(남천동)</dtl_adres>
+        <fclty_ar>648.0000</fclty_ar>
+        <xcord>129.114159</xcord>
+        <ycord>35.145380</ycord>
+        <mngps_nm>전주현(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>수영구</sgg_nm>
+        <vt_acmdfclty_nm>망미초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 수영구 수미로35번길 27(망미동)</dtl_adres>
+        <fclty_ar>750.0000</fclty_ar>
+        <xcord>129.114440</xcord>
+        <ycord>35.175048</ycord>
+        <mngps_nm>김건희(행정실장)</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>두송중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다송로 76(다대동)</dtl_adres>
+        <fclty_ar>775.0000</fclty_ar>
+        <xcord>128.983293</xcord>
+        <ycord>35.060719</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>다송초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대로381번길 17(다대동)</dtl_adres>
+        <fclty_ar>271.0000</fclty_ar>
+        <xcord>128.977465</xcord>
+        <ycord>35.069205</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>금정여자고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 서부로76번길 21(서동)</dtl_adres>
+        <fclty_ar>427.0000</fclty_ar>
+        <xcord>129.100477</xcord>
+        <ycord>35.220284</ycord>
+        <mngps_nm>최유리</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>현곡초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 동부곡로27번라길 20(부곡동)</dtl_adres>
+        <fclty_ar>750.0000</fclty_ar>
+        <xcord>129.096670</xcord>
+        <ycord>35.226873</ycord>
+        <mngps_nm>강태경</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>부곡중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 동부곡로15번길 102-20 (부곡동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>129.096096</xcord>
+        <ycord>35.231250</ycord>
+        <mngps_nm>강영미</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>부산대학교사범대학부설고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 기찰로22번길 30(부곡동)</dtl_adres>
+        <fclty_ar>1883.0000</fclty_ar>
+        <xcord>129.095393</xcord>
+        <ycord>35.232670</ycord>
+        <mngps_nm>송민기</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>내성고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 서동로31번길 11(부곡동)</dtl_adres>
+        <fclty_ar>403.0000</fclty_ar>
+        <xcord>129.092934</xcord>
+        <ycord>35.221140</ycord>
+        <mngps_nm>강민주</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>동현중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 서동로 50(부곡동)</dtl_adres>
+        <fclty_ar>776.0000</fclty_ar>
+        <xcord>129.092265</xcord>
+        <ycord>35.218716</ycord>
+        <mngps_nm>권갑숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>장전초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 수림로 90(장전동)</dtl_adres>
+        <fclty_ar>662.0000</fclty_ar>
+        <xcord>129.082623</xcord>
+        <ycord>35.240680</ycord>
+        <mngps_nm>이명희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>금빛초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 소정로 31(장전동)</dtl_adres>
+        <fclty_ar>720.0000</fclty_ar>
+        <xcord>129.080369</xcord>
+        <ycord>35.227787</ycord>
+        <mngps_nm>공진남</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>금정초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 식물원로44번길 46(장전동)</dtl_adres>
+        <fclty_ar>734.0000</fclty_ar>
+        <xcord>129.084341</xcord>
+        <ycord>35.228157</ycord>
+        <mngps_nm>김경란</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>금샘초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 금샘로 525(남산동)</dtl_adres>
+        <fclty_ar>584.0000</fclty_ar>
+        <xcord>129.083976</xcord>
+        <ycord>35.268806</ycord>
+        <mngps_nm>한종수</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>남산중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 금단로 114(남산동)</dtl_adres>
+        <fclty_ar>794.0000</fclty_ar>
+        <xcord>129.093753</xcord>
+        <ycord>35.259710</ycord>
+        <mngps_nm>김은미</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>남산고등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 남산로 66(남산동)</dtl_adres>
+        <fclty_ar>882.0000</fclty_ar>
+        <xcord>129.085509</xcord>
+        <ycord>35.267849</ycord>
+        <mngps_nm>박세화</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>장서초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 금강로453번길 26-7 (구서동)</dtl_adres>
+        <fclty_ar>750.0000</fclty_ar>
+        <xcord>129.085417</xcord>
+        <ycord>35.248039</ycord>
+        <mngps_nm>최정은</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>구서여자중학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 금강로453번길 26-12 (구서동)</dtl_adres>
+        <fclty_ar>741.0000</fclty_ar>
+        <xcord>129.085976</xcord>
+        <ycord>35.249036</ycord>
+        <mngps_nm>박영희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>부산과학고등학교 체육관</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 금샘로 455-1 (구서동)</dtl_adres>
+        <fclty_ar>627.0000</fclty_ar>
+        <xcord>129.082725</xcord>
+        <ycord>35.262989</ycord>
+        <mngps_nm>한원기</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>두실초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 중앙대로1893번길 33(구서동)</dtl_adres>
+        <fclty_ar>778.0000</fclty_ar>
+        <xcord>129.089142</xcord>
+        <ycord>35.253087</ycord>
+        <mngps_nm>이민섭</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>금정구</sgg_nm>
+        <vt_acmdfclty_nm>구서초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 금정구 구서중앙로 35(구서동)</dtl_adres>
+        <fclty_ar>704.0000</fclty_ar>
+        <xcord>129.087158</xcord>
+        <ycord>35.253985</ycord>
+        <mngps_nm>유차희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>위봉초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 재반로 301(반여동)</dtl_adres>
+        <fclty_ar>540.0000</fclty_ar>
+        <xcord>129.129311</xcord>
+        <ycord>35.202598</ycord>
+        <mngps_nm>김성영</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>인지중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 반여로 142(반여동)</dtl_adres>
+        <fclty_ar>672.0000</fclty_ar>
+        <xcord>129.125467</xcord>
+        <ycord>35.203795</ycord>
+        <mngps_nm>김상조</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>인지초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 반여로 128(반여동)</dtl_adres>
+        <fclty_ar>512.0000</fclty_ar>
+        <xcord>129.124957</xcord>
+        <ycord>35.202649</ycord>
+        <mngps_nm>감성연</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>반여고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 반여로 136(반여동)</dtl_adres>
+        <fclty_ar>870.0000</fclty_ar>
+        <xcord>129.126373</xcord>
+        <ycord>35.203184</ycord>
+        <mngps_nm>박광수</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>반안초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 명장로67번길 40-42 (반여동)</dtl_adres>
+        <fclty_ar>408.0000</fclty_ar>
+        <xcord>129.113201</xcord>
+        <ycord>35.203061</ycord>
+        <mngps_nm>안성호</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>삼어초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 삼어로91번길 73(반여동)</dtl_adres>
+        <fclty_ar>778.0000</fclty_ar>
+        <xcord>129.115678</xcord>
+        <ycord>35.209009</ycord>
+        <mngps_nm>윤종효</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>반송초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 아랫반송로30번길 37-16 (반송동)</dtl_adres>
+        <fclty_ar>1055.0000</fclty_ar>
+        <xcord>129.147297</xcord>
+        <ycord>35.223584</ycord>
+        <mngps_nm>김대진</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>운봉초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 신반송로 11-20 (반송동)</dtl_adres>
+        <fclty_ar>610.0000</fclty_ar>
+        <xcord>129.159241</xcord>
+        <ycord>35.229198</ycord>
+        <mngps_nm>박말숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>송수초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대로76번길 35(재송동)</dtl_adres>
+        <fclty_ar>578.0000</fclty_ar>
+        <xcord>129.119039</xcord>
+        <ycord>35.189686</ycord>
+        <mngps_nm>김민주</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>센텀초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 센텀중앙로 166(재송동)</dtl_adres>
+        <fclty_ar>403.0000</fclty_ar>
+        <xcord>129.122078</xcord>
+        <ycord>35.180912</ycord>
+        <mngps_nm>권영미</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>센텀중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 센텀북대로 32(재송동)</dtl_adres>
+        <fclty_ar>758.0000</fclty_ar>
+        <xcord>129.123589</xcord>
+        <ycord>35.175306</ycord>
+        <mngps_nm>조계숙</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>센텀고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 해운대로 264(재송동)</dtl_adres>
+        <fclty_ar>2700.0000</fclty_ar>
+        <xcord>129.127360</xcord>
+        <ycord>35.176971</ycord>
+        <mngps_nm>홍민서</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>해운대구</sgg_nm>
+        <vt_acmdfclty_nm>재송중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 해운대구 재반로165번길 16(재송동)</dtl_adres>
+        <fclty_ar>680.0000</fclty_ar>
+        <xcord>129.128649</xcord>
+        <ycord>35.193498</ycord>
+        <mngps_nm>유성규</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>승학초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 낙동대로135번길 55(괴정동)</dtl_adres>
+        <fclty_ar>444.0000</fclty_ar>
+        <xcord>129.003177</xcord>
+        <ycord>35.101528</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>사하중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 낙동대로302번길 35(괴정동)</dtl_adres>
+        <fclty_ar>608.0000</fclty_ar>
+        <xcord>128.982469</xcord>
+        <ycord>35.101916</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>부산일과학고</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 제석로 242(당리동)</dtl_adres>
+        <fclty_ar>751.0000</fclty_ar>
+        <xcord>128.986883</xcord>
+        <ycord>35.116716</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>하남초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 하신번영로 186(하단동)</dtl_adres>
+        <fclty_ar>562.0000</fclty_ar>
+        <xcord>128.959931</xcord>
+        <ycord>35.099363</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>을숙도초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 낙동대로 581(하단동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>128.961383</xcord>
+        <ycord>35.115449</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>하단중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 하신번영로380번길 88(하단동)</dtl_adres>
+        <fclty_ar>823.0000</fclty_ar>
+        <xcord>128.960062</xcord>
+        <ycord>35.110761</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>신남초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 비봉로 88(하단동)</dtl_adres>
+        <fclty_ar>165.0000</fclty_ar>
+        <xcord>128.959678</xcord>
+        <ycord>35.098704</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>부산자동차고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 하신중앙로3번나길 16(장림동)</dtl_adres>
+        <fclty_ar>835.0000</fclty_ar>
+        <xcord>128.964096</xcord>
+        <ycord>35.075360</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>효림초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 장평로 106(장림동)</dtl_adres>
+        <fclty_ar>671.0000</fclty_ar>
+        <xcord>128.973756</xcord>
+        <ycord>35.075824</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>다대중학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대로554번길 33(다대동)</dtl_adres>
+        <fclty_ar>852.0000</fclty_ar>
+        <xcord>128.968511</xcord>
+        <ycord>35.057123</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>다대초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대로 499(다대동)</dtl_adres>
+        <fclty_ar>735.0000</fclty_ar>
+        <xcord>128.975593</xcord>
+        <ycord>35.059807</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>다대고등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대낙조2길 199(다대동)</dtl_adres>
+        <fclty_ar>900.0000</fclty_ar>
+        <xcord>128.969526</xcord>
+        <ycord>35.052713</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>몰운대초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대낙조2길 110(다대동)</dtl_adres>
+        <fclty_ar>684.0000</fclty_ar>
+        <xcord>128.962936</xcord>
+        <ycord>35.054918</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>사하구</sgg_nm>
+        <vt_acmdfclty_nm>중현초등학교</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 사하구 다대낙조2길 8(다대동)</dtl_adres>
+        <fclty_ar>540.0000</fclty_ar>
+        <xcord>128.964336</xcord>
+        <ycord>35.050734</ycord>
+        <mngps_nm></mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>명지초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 명지국제6로 296(명지동)</dtl_adres>
+        <fclty_ar>4006.0000</fclty_ar>
+        <xcord>128.924570</xcord>
+        <ycord>35.102100</ycord>
+        <mngps_nm>박광현</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>명호초등학교강당 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 명지오션시티2로 41(명지동)</dtl_adres>
+        <fclty_ar>4614.0000</fclty_ar>
+        <xcord>128.900239</xcord>
+        <ycord>35.085114</ycord>
+        <mngps_nm>권순우</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>오션초등학교강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 명지오션시티6로 72(명지동)</dtl_adres>
+        <fclty_ar>5184.0000</fclty_ar>
+        <xcord>128.907127</xcord>
+        <ycord>35.080332</ycord>
+        <mngps_nm>홍지희</mngps_nm>
+    </row>
+    <row>
+        <ctprvn_nm>부산광역시</ctprvn_nm>
+        <sgg_nm>강서구</sgg_nm>
+        <vt_acmdfclty_nm>남명초등학교 강당</vt_acmdfclty_nm>
+        <dtl_adres>부산광역시 강서구 명지오션시티11로 132(명지동)</dtl_adres>
+        <fclty_ar>2655.0000</fclty_ar>
+        <xcord>128.910819</xcord>
+        <ycord>35.083695</ycord>
+        <mngps_nm>이해진</mngps_nm>
+    </row>
+</root>
