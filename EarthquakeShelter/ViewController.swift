@@ -10,11 +10,11 @@ import UIKit
 import MapKit
 import CoreLocation
 
-let Coordinate = CLLocationCoordinate2DMake(35.180100, 129.081017)
-let Span = MKCoordinateSpanMake(0.0027, 0.0027)
-let Region = MKCoordinateRegionMake(Coordinate, Span)
+let location = CLLocationCoordinate2D(latitude: 35.180100, longitude: 129.081017)
+let span = MKCoordinateSpan(latitudeDelta: 0.0027, longitudeDelta: 0.0027)
+let region = MKCoordinateRegion(center: location, span: span)
 
-class ViewController: UIViewController, MKMapViewDelegate, XMLParserDelegate,CLLocationManagerDelegate  {
+class ViewController: UIViewController, XMLParserDelegate,CLLocationManagerDelegate  {
     
     @IBOutlet var scZoom: UISegmentedControl!
     @IBOutlet var myMapView: MKMapView!
@@ -75,25 +75,23 @@ class ViewController: UIViewController, MKMapViewDelegate, XMLParserDelegate,CLL
         case 0:
             print("fullscreen selected")
             manualZoom = false
-            myMapView.setRegion(Region, animated: true)
+            let userLocation = myMapView.userLocation
+            let region = MKCoordinateRegionMakeWithDistance((userLocation.location?.coordinate)!, 3000, 3000)
+            myMapView.setRegion(region, animated: true)
+//            myMapView.setRegion(region, animated: true)
+//            self.myMapView.showsUserLocation = true
         case 1:
-            print("100M selected")
+            print("Nearst selected")
             sortAnnotations()
             let selected = annotations[0]
             myMapView.selectAnnotation(selected, animated: true)
             setZoomLevel(100, center:selected.coordinate)
         case 2:
-            print("200M selected")
-            sortAnnotations()
-            let selected = annotations[0]
-            myMapView.selectAnnotation(selected, animated: true)
-            setZoomLevel(200, center:selected.coordinate)
+            print("\(1*selected)km selected")
+            setZoomLevel(CLLocationDistance(100 * selected), center: nil)
         case 3:
-            print("300M selected")
-            sortAnnotations()
-            let selected = annotations[0]
-            myMapView.selectAnnotation(selected, animated: true)
-            setZoomLevel(500, center:selected.coordinate)
+            print("\(1*selected)km selected")
+            setZoomLevel(CLLocationDistance(200 * selected), center: nil)
         default:
             break
         }
@@ -105,13 +103,9 @@ class ViewController: UIViewController, MKMapViewDelegate, XMLParserDelegate,CLL
         super.viewDidLoad()
         
         self.locationManager.delegate = self
-        
         self.locationManager.desiredAccuracy = kCLLocationAccuracyBest
-        
         self.locationManager.requestWhenInUseAuthorization()
-        
         self.locationManager.startUpdatingLocation()
-        
         self.myMapView.showsUserLocation = true
         
         if let path = Bundle.main.url(forResource: "Shelter", withExtension: "xml"){
@@ -211,14 +205,38 @@ class ViewController: UIViewController, MKMapViewDelegate, XMLParserDelegate,CLL
         
     }
     func locationManager(manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        
         let location = locations.last
         let center = CLLocationCoordinate2DMake(location!.coordinate.latitude, location!.coordinate.latitude)
-        
         let region = MKCoordinateRegion(center: center, span:MKCoordinateSpan(latitudeDelta: 1, longitudeDelta: 1))
-        
         self.myMapView.setRegion(region, animated: true)
-        
         self.locationManager.startUpdatingLocation()
+    }
+    
+   
+}
+extension ViewController : MKMapViewDelegate
+{
+    func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
+        if let annotation = annotation as? BusanData {
+            let identifier = "pin"
+            var view: MKPinAnnotationView
+            if let dequeuedView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier) as? MKPinAnnotationView {
+                dequeuedView.annotation = annotation
+                view = dequeuedView
+            } else {
+                view = MKPinAnnotationView(annotation: annotation, reuseIdentifier: identifier)
+                view.canShowCallout = true
+                view.calloutOffset = CGPoint(x: -5, y: 5)
+                view.rightCalloutAccessoryView = UIButton(type: .detailDisclosure) as UIView
+            }
+            return view
+        }
+        return nil
+    }
+    
+    func mapView(_ mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
+        let location = view.annotation as! BusanData
+        let launchOptions = [MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving]
+        location.mapItem().openInMaps(launchOptions: launchOptions)
     }
 }

@@ -104,10 +104,10 @@
                             <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Xjm-gc-U4a">
                                 <rect key="frame" x="38" y="104" width="299" height="29"/>
                                 <segments>
-                                    <segment title="Basic"/>
+                                    <segment title="location"/>
+                                    <segment title="Nearst"/>
                                     <segment title="100M"/>
                                     <segment title="200M"/>
-                                    <segment title="500M"/>
                                 </segments>
                                 <connections>
                                     <action selector="scZoomchanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="Nu2-Rm-bXD"/>
