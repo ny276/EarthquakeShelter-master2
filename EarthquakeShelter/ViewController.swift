@@ -76,7 +76,7 @@ class ViewController: UIViewController, XMLParserDelegate,CLLocationManagerDeleg
             print("fullscreen selected")
             manualZoom = false
             let userLocation = myMapView.userLocation
-            let region = MKCoordinateRegionMakeWithDistance((userLocation.location?.coordinate)!, 3000, 3000)
+            let region = MKCoordinateRegionMakeWithDistance((userLocation.location?.coordinate)!, 5000, 5000)
             myMapView.setRegion(region, animated: true)
 //            myMapView.setRegion(region, animated: true)
 //            self.myMapView.showsUserLocation = true
@@ -135,7 +135,7 @@ class ViewController: UIViewController, XMLParserDelegate,CLLocationManagerDeleg
             loc = item["dtl_adres"]
             dLat = Double(lat!)
             dLong = Double(long!)
-            annotation = BusanData(coordinate: CLLocationCoordinate2D(latitude: dLat!, longitude: dLong!), title: name!, subtitle: loc!)
+            annotation = BusanData(title: name!, subtitle: loc!, coordinate: CLLocationCoordinate2D(latitude: dLat!, longitude: dLong!))
             annotations.append(annotation!)
         }
         myMapView.showAnnotations(annotations, animated: true)
@@ -216,11 +216,11 @@ class ViewController: UIViewController, XMLParserDelegate,CLLocationManagerDeleg
 }
 extension ViewController : MKMapViewDelegate
 {
-    func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
+    func myMapView(_ myMapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
         if let annotation = annotation as? BusanData {
             let identifier = "pin"
             var view: MKPinAnnotationView
-            if let dequeuedView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier) as? MKPinAnnotationView {
+            if let dequeuedView = myMapView.dequeueReusableAnnotationView(withIdentifier: identifier) as? MKPinAnnotationView {
                 dequeuedView.annotation = annotation
                 view = dequeuedView
             } else {
@@ -239,4 +239,5 @@ extension ViewController : MKMapViewDelegate
         let launchOptions = [MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving]
         location.mapItem().openInMaps(launchOptions: launchOptions)
     }
+    
 }
